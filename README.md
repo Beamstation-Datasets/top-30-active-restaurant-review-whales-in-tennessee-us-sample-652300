@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Review Whales in Tennessee, US
 
-> Free BeamStation sample export with 10 rows and masked direct-contact fields.
+> Free BeamStation sample export with 100 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `652300` |
 | Location | Tennessee |
 | Category | Restaurants |
-| Full dataset size | 1,340 records |
-| Free sample size | 10 records (0.75%) |
-| Last export | 2026-03-31T23:25:55.454600+00:00 |
+| Full dataset size | 1,006 records |
+| Free sample size | 100 records (9.94%) |
+| Last export | 2026-04-15T01:02:51.965890+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-tennessee-us-sample-652300/releases/download/sample-latest/beamstation_652300_restaurants-us-tn_SAMPLE_DIST.csv) |
 
 ## What is in this sample
