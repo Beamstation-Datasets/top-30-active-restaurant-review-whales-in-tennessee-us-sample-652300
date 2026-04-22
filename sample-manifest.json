@@ -1,12 +1,12 @@
 {
-  "export_job_id": "c2266be8-7350-4742-8e95-e1b3181d46e1",
+  "export_job_id": "cc9c90be-5430-43ba-828a-7fe81219f473",
   "id_short": 652300,
-  "published_at": "2026-04-18T19:37:13Z",
+  "published_at": "2026-04-22T07:49:11Z",
   "repo_name": "top-30-active-restaurant-review-whales-in-tennessee-us-sample-652300",
   "sample_asset_name": "beamstation_652300_restaurants-us-tn_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/652300/beamstation_652300_restaurants-us-tn_SAMPLE_DIST.csv",
-  "sample_records": 100,
-  "sample_sha256": "977bf100625b7bb075e0d338963f5b83e3e11eeabd9d2a7db297d8eb4a394120",
-  "sample_size_bytes": 398218,
-  "total_records": 1006
+  "sample_records": 53,
+  "sample_sha256": "9c0d0c2a58e4494c55b2f40814e96dba2c59f0d921eb316cd8a98b672ed49c36",
+  "sample_size_bytes": 213055,
+  "total_records": 530
 }
